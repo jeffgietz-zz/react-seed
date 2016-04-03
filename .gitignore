@@ -1,0 +1,5 @@
+node_modules
+persist
+.DS_Store
+.DS_Store?
+Thumbs.db
